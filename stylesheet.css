@@ -203,7 +203,7 @@ footer {
   padding-bottom: 20px;
 }
 
-[09:30, 3/31/2021] dinda: @media all and (max-width: 1000px) {
+@media all and (max-width: 1000px) {
   .lesson {
     width: 50%;
     margin-bottom: 50px;
